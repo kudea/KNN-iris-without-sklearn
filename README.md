@@ -1,4 +1,5 @@
 # KNN-iris
+## Without importing sklearn
 ## 程式說明：
 1. 程式執行後結果顯示於標準輸出中(error以反白顯示)，並附上一個.txt檔
 
